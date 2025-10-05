@@ -10,6 +10,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+**[View Live Demo](https://learn-splash.lovable.app)**: Experience the application live on Lovable platform.
+
+
+---
+
 ## 🎯 Project Overview
 
 **LearnHub** is a modern, full-featured online learning platform that allows users to browse courses, track their learning progress, and manage their educational journey. The platform provides an intuitive interface for both guest browsing and authenticated user experiences with course completion tracking.
