@@ -1,0 +1,9 @@
+# Ipynb
+.ipynb_checkpoints
+
+# environment
+.venv
+
+# ide
+.idea
+.vscode
