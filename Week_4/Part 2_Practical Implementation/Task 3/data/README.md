@@ -1,0 +1,1 @@
+The dataset was not pushed to GitHub. It can be found using this link https://www.kaggle.com/competitions/iuss-23-24-automatic-diagnosis-breast-cancer/data
