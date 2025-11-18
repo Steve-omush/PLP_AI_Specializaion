@@ -1,6 +1,3 @@
-# complete set dataset
-./complete_set
-
-
-# training set dataset
-./training_set
+# Ignore dataset folders
+complete_set/
+training_set/
